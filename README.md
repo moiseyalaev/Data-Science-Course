@@ -3,7 +3,7 @@ A small collection of selected problems tackled in my Data Science course. I too
 
 The main topics covered in class were 
 * **Least Squares**
-* **non-negative matrix factorization (NMF) **
+* **non-negative matrix factorization (NMF)**
 * QR factorization
 * LU Decomposition
 * **Singular value decomposition (SVD)**
