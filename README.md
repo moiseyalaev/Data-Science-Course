@@ -2,17 +2,17 @@
 A small collection of selected problems tackled in my Data Science course. I took this course Winter of 2020 at UCLA, while the problems were assigned for the class, all the work provided is my own. 
 
 The main topics covered in class were 
-* * Least Squares *
-* *non-negative matrix factorization (NMF)*
+* **Least Squares**
+* **non-negative matrix factorization (NMF) **
 * QR factorization
 * LU Decomposition
-* * Singular value decomposition (SVD)*
+* **Singular value decomposition (SVD)**
 * CP Decomposition (CPD)
 * principal component analysis (PCA)
-* * Spectral clustering *
-* k-nearest neighbors (KNN)
-* * Logistic Regression *
-* * gradient decent and cost functions*
+* **Spectral clustering**
+* K-nearest neighbors (KNN)
+* **Logistic Regression**
+* **Gradient decent and cost functions**
 * linear and dynamic programming.
 
 Bolded topics are implmented in the selected hw.
