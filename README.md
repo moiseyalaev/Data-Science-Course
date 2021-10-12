@@ -12,9 +12,9 @@ The main topics covered in class were
 * **Spectral clustering**
 * K-nearest neighbors (KNN)
 * **Logistic Regression**
-* **Gradient decent and cost functions**
+* **Gradient descent and cost functions**
 * linear and dynamic programming.
 
-Bolded topics are implmented in the selected hw.
+Bolded topics are implemented in the selected hw.
 
 Most of the description needed to understand the problems are in the ipynb files. These types of files are best viewed in a Jupyter or CoLab notebook.
